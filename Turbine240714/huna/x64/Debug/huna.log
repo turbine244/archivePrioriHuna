@@ -1,0 +1,56 @@
+﻿  huna.cpp
+C:\Users\turbi\3D Objects\Turbine240714\huna\typedefHuna.h(16,2): warning C4091: 'typedef ': ignored on left of 'HunaInfo' when no variable is declared
+  (compiling source file 'huna.cpp')
+  
+C:\Users\turbi\3D Objects\Turbine240714\huna\typedefHuna.h(22,2): warning C4091: 'typedef ': ignored on left of 'CertInfo' when no variable is declared
+  (compiling source file 'huna.cpp')
+  
+C:\Users\turbi\3D Objects\Turbine240714\huna\typedefHuna.h(28,2): warning C4091: 'typedef ': ignored on left of 'AngleInfo' when no variable is declared
+  (compiling source file 'huna.cpp')
+  
+C:\Users\turbi\3D Objects\Turbine240714\huna\typedefHuna.h(37,2): warning C4091: 'typedef ': ignored on left of 'AffairInfo' when no variable is declared
+  (compiling source file 'huna.cpp')
+  
+C:\Users\turbi\3D Objects\Turbine240714\huna\typedefHuna.h(46,2): warning C4091: 'typedef ': ignored on left of 'RecipeFort' when no variable is declared
+  (compiling source file 'huna.cpp')
+  
+C:\Users\turbi\3D Objects\Turbine240714\huna\huna.cpp(47,5): warning C4273: 'priori_do_load': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\huna\huna.h(18,30):
+  see previous definition of 'priori_do_load'
+  
+C:\Users\turbi\3D Objects\Turbine240714\huna\huna.cpp(55,5): warning C4273: 'priori_tell_initSteer': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\huna\huna.h(21,30):
+  see previous definition of 'priori_tell_initSteer'
+  
+C:\Users\turbi\3D Objects\Turbine240714\huna\huna.cpp(67,5): warning C4273: 'priori_tell_listCaption': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\huna\huna.h(22,30):
+  see previous definition of 'priori_tell_listCaption'
+  
+C:\Users\turbi\3D Objects\Turbine240714\huna\huna.cpp(119,5): warning C4273: 'priori_tell_latency': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\huna\huna.h(23,30):
+  see previous definition of 'priori_tell_latency'
+  
+C:\Users\turbi\3D Objects\Turbine240714\huna\huna.cpp(145,5): warning C4273: 'priori_do_init': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\huna\huna.h(16,30):
+  see previous definition of 'priori_do_init'
+  
+C:\Users\turbi\3D Objects\Turbine240714\huna\huna.cpp(150,5): warning C4273: 'priori_do_clear': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\huna\huna.h(17,30):
+  see previous definition of 'priori_do_clear'
+  
+C:\Users\turbi\3D Objects\Turbine240714\huna\huna.cpp(155,5): warning C4273: 'priori_do_launch': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\huna\huna.h(19,30):
+  see previous definition of 'priori_do_launch'
+  
+C:\Users\turbi\3D Objects\Turbine240714\huna\huna.cpp(321,5): warning C4273: 'priori_do_exit': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\huna\huna.h(20,30):
+  see previous definition of 'priori_do_exit'
+  
+C:\Users\turbi\3D Objects\Turbine240714\huna\huna.cpp(339,6): warning C4273: 'priori_bufferAction': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\huna\huna.h(24,31):
+  see previous definition of 'priori_bufferAction'
+  
+C:\Users\turbi\3D Objects\Turbine240714\huna\huna.cpp(467,35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+     Creating library C:\Users\turbi\3D Objects\Turbine240714\x64\Debug\huna.lib and object C:\Users\turbi\3D Objects\Turbine240714\x64\Debug\huna.exp
+  huna.vcxproj -> C:\Users\turbi\3D Objects\Turbine240714\x64\Debug\huna.dll
+          1개 파일이 복사되었습니다.

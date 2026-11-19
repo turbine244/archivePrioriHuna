@@ -1,0 +1,48 @@
+﻿  egoASIO.cpp
+C:\Users\turbi\3D Objects\Turbine240714\hostASIO\typedefEgo.h(17,2): warning C4091: 'typedef ': ignored on left of 'EgoInfo' when no variable is declared
+  (compiling source file 'egoASIO.cpp')
+  
+C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.cpp(24,5): warning C4273: 'driver_tell_numDriver': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.h(21,34):
+  see previous definition of 'driver_tell_numDriver'
+  
+C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.cpp(38,5): warning C4273: 'driver_tell_listDriver': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.h(22,34):
+  see previous definition of 'driver_tell_listDriver'
+  
+C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.cpp(58,5): warning C4273: 'driver_tell_listChannel': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.h(23,34):
+  see previous definition of 'driver_tell_listChannel'
+  
+C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.cpp(76,5): warning C4273: 'driver_tell_latency': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.h(24,34):
+  see previous definition of 'driver_tell_latency'
+  
+C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.cpp(87,5): warning C4273: 'driver_do_init': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.h(16,34):
+  see previous definition of 'driver_do_init'
+  
+C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.cpp(100,5): warning C4273: 'driver_do_clear': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.h(17,34):
+  see previous definition of 'driver_do_clear'
+  
+C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.cpp(111,5): warning C4273: 'driver_do_load': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.h(18,34):
+  see previous definition of 'driver_do_load'
+  
+C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.cpp(130,5): warning C4273: 'driver_do_launch': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.h(19,34):
+  see previous definition of 'driver_do_launch'
+  
+C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.cpp(180,5): warning C4273: 'driver_do_exit': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.h(20,34):
+  see previous definition of 'driver_do_exit'
+  
+C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.cpp(198,5): warning C4273: 'driver_open_control': inconsistent dll linkage
+  C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.h(25,34):
+  see previous definition of 'driver_open_control'
+  
+C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.cpp(259,11): warning C4311: 'type cast': pointer truncation from 'double *' to 'int'
+C:\Users\turbi\3D Objects\Turbine240714\hostASIO\egoASIO.cpp(259,11): warning C4302: 'type cast': truncation from 'double *' to 'int'
+  hostASIO.vcxproj -> C:\Users\turbi\3D Objects\Turbine240714\x64\Debug\egoASIO.dll
+          1개 파일이 복사되었습니다.

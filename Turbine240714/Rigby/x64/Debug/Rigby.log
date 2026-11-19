@@ -1,0 +1,11 @@
+﻿  Rigby.cpp
+C:\Users\turbi\3D Objects\Turbine240714\Rigby\Rigby.cpp(50,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\turbi\3D Objects\Turbine240714\Rigby\Rigby.cpp(109,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\turbi\3D Objects\Turbine240714\Rigby\Rigby.cpp(114,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\turbi\3D Objects\Turbine240714\Rigby\Rigby.cpp(119,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\turbi\3D Objects\Turbine240714\Rigby\Rigby.cpp(119,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\turbi\3D Objects\Turbine240714\Rigby\Rigby.cpp(129,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\turbi\3D Objects\Turbine240714\Rigby\Rigby.cpp(134,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\turbi\3D Objects\Turbine240714\Rigby\Rigby.cpp(139,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\turbi\3D Objects\Turbine240714\Rigby\Rigby.cpp(139,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Rigby.vcxproj -> C:\Users\turbi\3D Objects\Turbine240714\x64\Debug\Rigby.exe

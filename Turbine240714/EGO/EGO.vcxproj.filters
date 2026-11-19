@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\_def">
+      <UniqueIdentifier>{e728e787-26d0-4f5c-a5cd-6268dc8b6023}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\_main">
+      <UniqueIdentifier>{94229995-37ec-4920-960b-bd2928e79238}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\class">
+      <UniqueIdentifier>{8d1f3e89-fb75-4336-818b-8535401a1d7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\class">
+      <UniqueIdentifier>{b8626bf9-289e-4e82-88e7-4190f03cf3bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\class\_parent">
+      <UniqueIdentifier>{1a541225-1be5-4192-864f-d19a03e43da8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\class\api">
+      <UniqueIdentifier>{1bcf0909-7701-4a33-af2a-a8a8ddf02099}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\class\api">
+      <UniqueIdentifier>{b322fe5d-ff33-4244-acde-b6d44aaedcc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\class\_parent">
+      <UniqueIdentifier>{bb5a975a-a3c0-4a44-9548-a5fbf8bd1d69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\class\_parent\_virtual">
+      <UniqueIdentifier>{e9ae0653-e87d-4158-ad4f-23ba0d101e3c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files\_main</Filter>
+    </ClCompile>
+    <ClCompile Include="Ego.h">
+      <Filter>Header Files\class\_parent</Filter>
+    </ClCompile>
+    <ClCompile Include="Ego.cpp">
+      <Filter>Source Files\class\_parent</Filter>
+    </ClCompile>
+    <ClCompile Include="EgoApi_priori.h">
+      <Filter>Header Files\class\api</Filter>
+    </ClCompile>
+    <ClCompile Include="EgoApi_driver.cpp">
+      <Filter>Source Files\class\api</Filter>
+    </ClCompile>
+    <ClCompile Include="EgoApi_priori.cpp">
+      <Filter>Source Files\class\api</Filter>
+    </ClCompile>
+    <ClCompile Include="EgoConsole.h">
+      <Filter>Header Files\class</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CliTool.h">
+      <Filter>Header Files\class\_parent</Filter>
+    </ClInclude>
+    <ClInclude Include="typedefEgo.h">
+      <Filter>Header Files\_def</Filter>
+    </ClInclude>
+    <ClInclude Include="EgoApi_driver.h">
+      <Filter>Header Files\class\api</Filter>
+    </ClInclude>
+    <ClInclude Include="enumEgo.h">
+      <Filter>Header Files\_def</Filter>
+    </ClInclude>
+    <ClInclude Include="EgoApi.h">
+      <Filter>Header Files\class\_parent\_virtual</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
